@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1234_ccw2889.user" name="x_1234_ccw2889.user">0c4a37d6618950107f443e3805249745</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-30 18:12:06</sys_created_on>
+        <sys_id>4c4a37d6618950107f443e3805249749</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0c4a37d6618950107f443e3805249745</sys_name>
+        <sys_package display_value="CCW2889" source="x_1234_ccw2889">e30a33d6618950107f443e3805249764</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCW2889">e30a33d6618950107f443e3805249764</sys_scope>
+        <sys_update_name>sys_embedded_help_role_4c4a37d6618950107f443e3805249749</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-30 18:12:06</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

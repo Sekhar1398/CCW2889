@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Message" language="en" table="x_1234_ccw2889_message">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Message</label>
+            <language>en</language>
+            <name>x_1234_ccw2889_message</name>
+            <plural>Messages</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-30 18:15:13</sys_created_on>
+            <sys_id>f1fa3fd6618950107f443e3805249719</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Message</sys_name>
+            <sys_package display_value="CCW2889" source="x_1234_ccw2889">e30a33d6618950107f443e3805249764</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CCW2889">e30a33d6618950107f443e3805249764</sys_scope>
+            <sys_update_name>sys_documentation_x_1234_ccw2889_message__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-30 18:15:13</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
